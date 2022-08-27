@@ -25,5 +25,5 @@
    "Unity_InterstitialAdId": "Interstitial_Android", 
    "Unity_RewardedAdId": "Rewarded_Android",
    "ChackUpdate": "false",
-   "VPN": "true"
+   "VPN": "false"
 }
