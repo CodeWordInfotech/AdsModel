@@ -24,6 +24,6 @@
    "Unity_BannerAdId": "Banner_Android",
    "Unity_InterstitialAdId": "Interstitial_Android", 
    "Unity_RewardedAdId": "Rewarded_Android",
-   "ChackUpdate": "false"
+   "ChackUpdate": "false",
    "VPN": "true"
 }
