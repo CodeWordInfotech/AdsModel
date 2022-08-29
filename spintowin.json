@@ -1,9 +1,9 @@
 {   
-   "AdsType": "Facebook",
-   "Count_inte": "4",
+   "AdsType": "Applovin",
+   "Count_inte": "3",
    "Count_banner": "1",
    "Count_native": "3",
-   "Count_native_banner": "2",
+   "Count_native_banner": "1",
    "AdMob_Id": "ca-app-pub-3940256099942544~3347511713",
    "AdMob_OpenAdId": "/6499/example/app-open",
    "AdMob_BannerAdId": "/6499/example/banner",
@@ -30,5 +30,5 @@
    "Applovin_NativeBannerAdId": "dcf0ae01ee686d86",
    "Applovin_RewardedAdId": "87024317a4660f50",
    "ChackUpdate": "false",
-   "VPN": "false"
+   "VPN": "true"
 }
