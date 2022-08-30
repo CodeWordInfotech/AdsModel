@@ -1,5 +1,5 @@
 {   
-   "AdsType": "Applovin",
+   "AdsType": "Unity",
    "Count_inte": "3",
    "Count_banner": "1",
    "Count_native": "3",
@@ -25,5 +25,5 @@
    "Applovin_NativeBannerAdId": "dcf0ae01ee686d86",
    "Applovin_RewardedAdId": "87024317a4660f50",
    "ChackUpdate": "false",
-   "VPN": "true"
+   "VPN": "false"
 }
