@@ -9,7 +9,7 @@
    "AdMob_BannerAdId": "/6499/example/banner",
    "AdMob_InterstitialAdId": "/6499/example/interstitial",
    "AdMob_NativeAdId": "/6499/example/native",
-   "AdMob_RewardedAdId": "/21775744923/example/rewarded_interstitia",
+   "AdMob_RewardedAdId": "/21775744923/example/rewarded_interstitial",
    "AdManager_OpenAdId": "/6499/example/app-open",
    "AdManager_BannerAdId": "/6499/example/banner",
    "AdManager_InterstitialAdId": "/6499/example/interstitial",
