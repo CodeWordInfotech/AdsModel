@@ -1,9 +1,9 @@
 {   
    "AdsType": "Facebook",
-   "Count_inte": "2",
-   "Count_banner": "2",
-   "Count_native": "1",
-   "Count_native_banner": "1",
+   "Count_inte": "3",
+   "Count_banner": "3",
+   "Count_native": "2",
+   "Count_native_banner": "2",
    "AdMob_Id": "ca-app-pub-3940256099942544~3347511713",
    "AdMob_OpenAdId": "/21753324030,22850457568/com.ilovevideo.livevideocallglobalcall_AppOpen",
    "AdMob_BannerAdId": "/21753324030,22850457568/com.ilovevideo.livevideocallglobalcall_Banner",
