@@ -17,13 +17,13 @@
    "FB_RewardedAdId": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
    "islive": "1",
    "liveurl": "",
-   "extra_pages": "1",
+   "extra_pages": "3",
    "splashads": "1",
    "vpnurl": "https://awebhtpo3u8g5t.ecoweb-network.com",
    "vpnCarrier": "sah_alphavpnproject",
-   "vpnStatus": "0",
+   "vpnStatus": "1",
    "vpnStartTime": "20:00",
    "vpnEndTime": "8:00",
-   "vpncountry": "US",
+   "vpncountry": "JP",
    "ChackUpdate": "false"
 }
