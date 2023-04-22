@@ -24,6 +24,6 @@
    "vpnStatus": "1",
    "vpnStartTime": "20:00",
    "vpnEndTime": "8:00",
-   "vpncountry": "US",
+   "vpncountry": "US,NG,KE",
    "ChackUpdate": "false"
 }
